@@ -16,3 +16,7 @@ Configuring .env file
 
 ![Screenshot from 2021-05-13 11-36-43](https://user-images.githubusercontent.com/8299359/118085257-bd4dbf00-b3df-11eb-9df4-da89d9dfa8af.png)
 
+
+Sample Output:
+
+![Screenshot from 2021-05-13 14-50-30](https://user-images.githubusercontent.com/8299359/118105942-af596780-b3fa-11eb-8b42-53d779ce551b.png)
