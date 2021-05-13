@@ -14,7 +14,7 @@ Run the application python main.py
 
 Configuring .env file
 
-PINCODES=533001, 533002, 533003, 533005
-MIN_AGE_LIMIT=53
+PINCODES=533001, 533003, 533002, 533005
+MIN_AGE_LIMIT=18
 TOKEN=<your-token>
 INTERVAL=60
